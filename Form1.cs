@@ -16,6 +16,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
             StartPosition = FormStartPosition.CenterScreen;
+            label1.Text = DateTime.Now.ToString("yyMMddHHmm");
         }
     }
 }

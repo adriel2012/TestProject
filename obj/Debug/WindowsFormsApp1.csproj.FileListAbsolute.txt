@@ -1,0 +1,3 @@
+D:\Project\GITProject\TestProject\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Project\GITProject\TestProject\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Project\GITProject\TestProject\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
